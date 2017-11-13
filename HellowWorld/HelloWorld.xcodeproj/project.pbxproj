@@ -15,7 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		5A2EBCA71FB0E6DA0069D228 /* HellowWorld.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HellowWorld.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		5A2EBCA71FB0E6DA0069D228 /* HelloWorld.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HelloWorld.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5A2EBCAA1FB0E6DA0069D228 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5A2EBCAC1FB0E6DA0069D228 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		5A2EBCAF1FB0E6DA0069D228 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -46,7 +46,7 @@
 		5A2EBCA81FB0E6DA0069D228 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				5A2EBCA71FB0E6DA0069D228 /* HellowWorld.app */,
+				5A2EBCA71FB0E6DA0069D228 /* HelloWorld.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -67,9 +67,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		5A2EBCA61FB0E6DA0069D228 /* HellowWorld */ = {
+		5A2EBCA61FB0E6DA0069D228 /* HelloWorld */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 5A2EBCB91FB0E6DA0069D228 /* Build configuration list for PBXNativeTarget "HellowWorld" */;
+			buildConfigurationList = 5A2EBCB91FB0E6DA0069D228 /* Build configuration list for PBXNativeTarget "HelloWorld" */;
 			buildPhases = (
 				5A2EBCA31FB0E6DA0069D228 /* Sources */,
 				5A2EBCA41FB0E6DA0069D228 /* Frameworks */,
@@ -79,9 +79,9 @@
 			);
 			dependencies = (
 			);
-			name = HellowWorld;
+			name = HelloWorld;
 			productName = HellowWorld;
-			productReference = 5A2EBCA71FB0E6DA0069D228 /* HellowWorld.app */;
+			productReference = 5A2EBCA71FB0E6DA0069D228 /* HelloWorld.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -101,7 +101,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 5A2EBCA21FB0E6DA0069D228 /* Build configuration list for PBXProject "HellowWorld" */;
+			buildConfigurationList = 5A2EBCA21FB0E6DA0069D228 /* Build configuration list for PBXProject "HelloWorld" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -114,7 +114,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				5A2EBCA61FB0E6DA0069D228 /* HellowWorld */,
+				5A2EBCA61FB0E6DA0069D228 /* HelloWorld */,
 			);
 		};
 /* End PBXProject section */
@@ -286,7 +286,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		5A2EBCA21FB0E6DA0069D228 /* Build configuration list for PBXProject "HellowWorld" */ = {
+		5A2EBCA21FB0E6DA0069D228 /* Build configuration list for PBXProject "HelloWorld" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				5A2EBCB71FB0E6DA0069D228 /* Debug */,
@@ -295,13 +295,14 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		5A2EBCB91FB0E6DA0069D228 /* Build configuration list for PBXNativeTarget "HellowWorld" */ = {
+		5A2EBCB91FB0E6DA0069D228 /* Build configuration list for PBXNativeTarget "HelloWorld" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				5A2EBCBA1FB0E6DA0069D228 /* Debug */,
 				5A2EBCBB1FB0E6DA0069D228 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
